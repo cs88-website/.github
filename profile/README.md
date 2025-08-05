@@ -5,7 +5,7 @@ Understanding the structures that underlie the programs, algorithms, and languag
 language while studying general techniques for managing program complexity, e.g., functional, object-oriented, and declarative programming. Provides 
 practical experience with composing larger systems through several significant programming projects.
 
-## Berkeley-specific Context
+## Berkeley-specific context
 Data C88C, also cross-listed as CS C88 and originally offered as CS 88, provides a rigorous introduction to programming, abstraction, and the structure of programs. 
 It is based on CS 61A and covers approximately 70% of the content of that course.
 
